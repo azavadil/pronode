@@ -1,0 +1,218 @@
+line1
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>TechRag</title>
+		
+	<link rel="stylesheet" href="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fbootstrap-combined.no-icons.min.css">
+	<link type="text/css" rel="stylesheet" href="/stylesheets/static.css"/>
+	 <!-- Imports to make the accordian work --> 
+    <script src="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fjquery.js"></script>
+    <script src="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fbootstrap.js"></script>
+
+    
+		
+</head>
+	
+<body>
+	
+	<!-- Mobile-friendly navbar adapted from example -->
+    <!-- http://twitter.github.io/bootstrap/examples/starter-template.html --> 
+    <div class="navbar navbar-inverse navbar-fixed-top"> 
+      <div class="navbar-inner">
+		<div class="container"> 
+		  <button type="button" class="btn btn-navbar">
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		  </button> 
+		  <a class="brand" href="#">TechRag</a> 
+			<ul class="nav">
+			  <li class="active"><a href="/">Home</a></li>
+			</ul>
+		</div>
+	  </div>
+    </div>
+	
+	<div class="container"> 
+		<div class="row-fluid heading"> 
+			<div class="span12"> 
+				<h1>TechRag</h1>
+			</div> 
+		</div>
+	
+		<div class="row-fluid header">		
+			<div class="controls">
+				
+					<a class="gray-link" href="/login">login</a>
+					|
+					<a class="gray-link" href="/signup">signup</a>
+				
+			</div>
+		
+			<div class="controls">
+				<!-- this is a blank will be overwritten by templates that inherit base --> 
+				
+	<a class="gray-link" href="/userposts">userposts</a>
+
+			</div>
+		</div>
+		
+		
+		<!--this begins the content section --> 
+		<div class="row-fluid base-container"> 
+				<!--<pre> tag is user to preserve whitespace for leftspacer-->
+				<div class="span6 offset3 base-content"> 
+					
+	
+		<div class="post">
+  <div class="post-heading">
+    <div class="post-title">
+      Alan Turing&#39;s Productivity Tricks
+    </div>
+	<div class = "post-author">
+	  by bob
+	</div>
+	
+    <div class="post-date">
+      Aug 05, 2013
+    </div>
+  </div>
+
+  <div class="post-content">
+    
+	<blockquote><a href="http://www.lifehacker.com.au/2013/08/alan-turings-best-productivity-tricks/">Break Down Larger Tasks Into Small Ones</a> One of Alan Turing’s most obvious skills was his ability to break large problems into smaller ones so he could solve them one step at a time. It’s an incredibly difficult skill to master, but one that proved useful for Turing throughout his life. The big picture was certainly on his mind, but he was capable of breaking that into surmountable slices.</blockquote> <br><br>Good advice and something I'll try to keep in mind when I'm tackling difficult problems. As a sidenote, every time I think about what happened to Turing I get upset. 
+	
+
+  </div>
+	
+	<a class = "gray-link"  href="/2013/217/Alan-Turnings-Productivity-Tricks">Continue reading ... </a> 
+	
+  
+  
+  
+</div>
+		<br><br>
+	
+		<div class="post">
+  <div class="post-heading">
+    <div class="post-title">
+      Where&#39;s the media?
+    </div>
+	<div class = "post-author">
+	  by bob
+	</div>
+	
+    <div class="post-date">
+      Jun 27, 2013
+    </div>
+  </div>
+
+  <div class="post-content">
+    
+	<blockquote><a href="http://www.newyorker.com/online/blogs/johncassidy/2013/06/demonizing-edward-snowden-which-side-are-you-on.html#entry-more">On the Sunday-morning talk shows</a> I watched, there weren’t many voices saying that would be an excessive punishment for someone who has performed an invaluable public service. And the person who did aggressively defend Snowden’s actions, Glenn Greenwald, the Guardian blogger who was one of the reporters to break the story, found himself under attack. After suggesting that Greenwald had “aided and abetted” Snowden, David Gregory, the host of NBC’s “Meet the Press,” asked, “Why shouldn’t you, Mr. Greenwald, be charged with a crime?”</blockquote><br><br>When I read stories like this I understand a with a little more salience how much pressure is brought to bear on journalists. Maybe because I worked with lawyers from Watchtell its easy for me to imagine the path Greenwald could have taken and how much easier that would be. He was a litigator 
+	
+
+  </div>
+	
+	<a class = "gray-link"  href="/2013/178/Wheres-the-media">Continue reading ... </a> 
+	
+  
+  
+  
+</div>
+		<br><br>
+	
+		<div class="post">
+  <div class="post-heading">
+    <div class="post-title">
+      I&#39;d like to live in a world where Sebastian Thrun was better known than Lebron James
+    </div>
+	<div class = "post-author">
+	  by bob
+	</div>
+	
+    <div class="post-date">
+      Jun 27, 2013
+    </div>
+  </div>
+
+  <div class="post-content">
+    
+	<blockquote><a href = "http://blog.udacity.com/2013/06/sebastian-thrun-thoughts-and-financial.html">In December 2012</a>, I participated in the development of a Student Bill of Rights. In it, a group of 12 scholars defined what we believed to be inalienable rights for students in the digital age. We postulated financial transparency for the students as a basic right. <br><br>Even though we at Udacity knew we might be subjected to intense criticism and debate, we opened up access to the budget of our new degree, and we are committed to publishing actual financials as this degree is being rolled out. The OMS CS is truly a moon shot, and much of what we project are speculations at this point. But if this model stands, it could serve as a blueprint for making higher education more accessible in the 21st century.</blockquote> <br><br><br>Consistently amazing. First Thrun led Stanford and Google's efforts to build a self-driving car. Now he's leading efforts to revolutionize education. 
+	
+
+  </div>
+	
+	<a class = "gray-link"  href="/2013/178/Id-like-to-live-in-a-world-where-Sebastian-Thrun-was-better-known-than-Lebron-James">Continue reading ... </a> 
+	
+  
+  
+  
+</div>
+		<br><br>
+	
+
+				</div>
+			
+				<div class="span3 base-rightcol"> 
+					
+<div class = "sidebar"> 
+	Reader Opinion's
+</div>
+	<div class = "sidebar-topvote-header">
+	Top Voted
+	</div>
+	 
+		
+			<a class="gray-link" href="/2013/206/Zynga">Zynga</a> 
+			
+			<div class = "sidebar-topvote-author">
+			by <b>chrischew</b>
+			</div> 
+		
+			<a class="gray-link" href="/2013/178/Elon-Musk-is-inspiring">Elon Musk is inspiring</a> 
+			
+			<div class = "sidebar-topvote-author">
+			by <b>anthony</b>
+			</div> 
+		
+	
+	
+	<div class = "sidebar-recent-header"> 
+	Most Recent 
+	</div>
+	
+		
+			<a class="gray-link" href="/2013/206/Zynga">Zynga</a>
+					
+			<div class="sidebar-recent-author">
+			by <b>chrischew</b>
+			</div>
+		
+			<a class="gray-link" href="/2013/178/Elon-Musk-is-inspiring">Elon Musk is inspiring</a>
+					
+			<div class="sidebar-recent-author">
+			by <b>anthony</b>
+			</div>
+		
+
+
+				</div> 
+		</div> 
+		 
+			
+				<!-- --> 
+		<div class="row-fluid"> 
+			<div class="span12"> 
+				
+				
+			</div>
+		</div> 
+	</div>
+
+	
+</body>
+
+</html>
